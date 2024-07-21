@@ -1,4 +1,4 @@
-# Movie Streamer
+# Movie Streamer fullstack project using Netflix Api
 
 Built using React, Redux Toolkit, Firebase, Styled Components, Axios, Node.js, Express, and MongoDB.
 
